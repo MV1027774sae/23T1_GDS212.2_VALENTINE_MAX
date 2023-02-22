@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2722008397dd4e54d92bd3ac68146e96, type: 3}
+  m_Name: EmailScriptableObject
+  m_EditorClassIdentifier: 
+  id: StandardEmailObject
+  displayName: Mail
+  icon: {fileID: 7482667652216324306, guid: a7c67be350322e140ae65ac8a4dcaaa0, type: 3}
+  prefab: {fileID: 4900296930023620962, guid: 64cbe95b837fc754c897e60b7fae9f2b, type: 3}
