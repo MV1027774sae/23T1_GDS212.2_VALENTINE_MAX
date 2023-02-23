@@ -8,8 +8,8 @@ public class UIInbox : MonoBehaviour
     private Transform emailContainer;
     private Transform emailTemplate;
     public Email email;
-    private int x = 0;
-    private int y = 0;
+    //private int x = 0;
+    //private int y = 0;
     public GameObject emailContainerGO;
     public GameObject emailTemplateGO;
 
